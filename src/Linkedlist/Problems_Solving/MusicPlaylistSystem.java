@@ -1,8 +1,7 @@
 package Problems_Solving;
-
+    //creating a Music nplaylist system using circular linked list
 
 public class MusicPlaylistSystem {
-    //creating a Music nplaylist system using circular linked list
 
     Song front = null;
     Song rear = null;
